@@ -1,0 +1,17 @@
+#first_block{
+    width: 100%;
+    border: 1px black;
+    margin-top: 10px;
+}
+
+#second_block{
+    width: 50%;
+    background-color: red;
+    margin-top: 1em;
+}
+
+.third_block{
+    width: 50vw;
+    padding: 1rem;
+    color: blue;
+}
